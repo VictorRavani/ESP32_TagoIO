@@ -4,7 +4,7 @@
 
 Exemplo de código mínimo para publish e subscribe em tópicos MQTT utilizando o broker da TagoIO.
 
-Primeiro passo é a criação de um dispositivo, para isso crie um dispostivo do tipo MQTT. No meu exemplo ele será chamado de Randon
+Primeiro passo é a criação de um dispositivo, para isso crie um dispostivo do tipo MQTT. No meu exemplo ele será chamado de Random
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/f9938d66-7ab2-4a63-8532-ab83f8a34f15)
 
