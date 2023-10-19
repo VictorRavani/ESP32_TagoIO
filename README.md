@@ -5,12 +5,11 @@ Primeiro passo é a criação de um dispositivo, para isso crie um dispostivo do
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/f9938d66-7ab2-4a63-8532-ab83f8a34f15)
 
-![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/d99a8500-2e60-413c-a5df-5a352876fd47)
-
 Encontre o seu Token, pois será necessário para o firmware.
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/4a192696-3993-4408-9177-28450f19d346)
 
+![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/d99a8500-2e60-413c-a5df-5a352876fd47)
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/871cbd90-267d-4ade-98a0-704c075542bc)
 
