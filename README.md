@@ -13,5 +13,8 @@ Criar um action para ENVIAR as informações:
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/1eeed2e7-0ba5-44fb-bb6b-87c31f8cf68b)
 
+Você de criar dois action um para enviar 0 e outro para enviar 1.
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/61b7f4f1-9ed8-4158-be8e-44975560630f)
+
+A criação da variável é apartir do JSON enviado, de acordo com o firmware.
