@@ -28,6 +28,11 @@ Você deve criar dois action um para enviar 0 e outro para enviar 1.
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/61b7f4f1-9ed8-4158-be8e-44975560630f)
 
+
+![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/18239206-208e-44b4-af99-39e504e8a65c)
+
+A variável que será observada será a state_button.
+
 A criação da variável é apartir do JSON enviado, de acordo com o firmware.
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/13e65349-f9c8-4324-b0af-a90b6c387981)
