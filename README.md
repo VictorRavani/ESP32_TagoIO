@@ -28,6 +28,7 @@ Você deve criar dois action um para enviar 0 e outro para enviar 1.
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/61b7f4f1-9ed8-4158-be8e-44975560630f)
 
+![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/ccd1e68a-9c5c-497c-90ee-eaa0dcb37fe7)
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/18239206-208e-44b4-af99-39e504e8a65c)
 
