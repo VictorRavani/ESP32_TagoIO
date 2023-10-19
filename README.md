@@ -14,7 +14,7 @@ Encontre o seu Token, pois será necessário para o firmware.
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/d99a8500-2e60-413c-a5df-5a352876fd47)
 
-Para você criar essa intereção você deve:
+Para você criar intereções você deve:
 
 Criar um action para RECEBER as informações:
 
