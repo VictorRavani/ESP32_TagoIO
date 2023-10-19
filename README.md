@@ -1,4 +1,7 @@
 # ESP32_TagoIO
+
+![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/871cbd90-267d-4ade-98a0-704c075542bc)
+
 Exemplo de código mínimo para publish e subscribe em tópicos MQTT utilizando o broker da TagoIO.
 
 Primeiro passo é a criação de um dispositivo, para isso crie um dispostivo do tipo MQTT
@@ -10,8 +13,6 @@ Encontre o seu Token, pois será necessário para o firmware.
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/4a192696-3993-4408-9177-28450f19d346)
 
 ![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/d99a8500-2e60-413c-a5df-5a352876fd47)
-
-![image](https://github.com/VictorRavani/ESP32_TagoIO/assets/101602056/871cbd90-267d-4ade-98a0-704c075542bc)
 
 Para você criar essa intereção você deve:
 
